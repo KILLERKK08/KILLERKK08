@@ -8,7 +8,7 @@ To install Fungame, simply clone the repository and run the `fungame.py` script.
 
 
 bash
-git clone https://github.com/yourusername/fungame.git
+git clone https://github.com/KILLERKK08/fungame.git
 cd fungame
 python fungame.py
 ​
